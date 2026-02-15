@@ -1,0 +1,21 @@
+# IntelliJ / VSCode
+.idea/
+**/.idea/
+.vscode/
+
+# Java build output
+backend/target/
+**/target/
+
+# Node dependencies & builds
+frontend/node_modules/
+**/node_modules/
+frontend/dist/
+**/dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+# Large datasets
+backend/src/main/resources/jobs.csv
+
