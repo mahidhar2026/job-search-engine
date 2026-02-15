@@ -69,12 +69,13 @@ cd frontend
 npm install
 npm run dev
 
+### VERY BOTTOM -> Author(Last thing)
 
-```md
-##  Author
+```
+## Author
+**Mahidhar Agraharapu**
+https://github.com/mahidhar2026
 
-**Mahidhar Agraharapu**    
-GitHub: https://github.com/mahidhar2026
 
 
 
