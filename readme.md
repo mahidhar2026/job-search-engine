@@ -54,7 +54,7 @@ Fallback: CSV-based in-memory search (if OpenSearch fails)
 ## Running the Project
 
 ### Start OpenSearch
-``bash
+```bash
 bin/opensearch
 
 Run Backend:
@@ -76,6 +76,7 @@ npm run dev
 **Mahidhar Agraharapu**  
 B.Tech – Artificial Intelligence & Machine Learning  
 GitHub: https://github.com/mahidhar2026
+
 
 
 
