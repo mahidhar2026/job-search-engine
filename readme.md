@@ -57,24 +57,25 @@ Fallback: CSV-based in-memory search (if OpenSearch fails)
 ```bash
 bin/opensearch
 
-Run Backend:
+
 cd backend
 mvn spring-boot:run
 
-Index Jobs:
+
 POST http://localhost:8080/index
 
-Run Frontend:
+
 cd frontend
 npm install
 npm run dev
 
-### VERY BOTTOM -> Author(Last thing)
+
 
 ```
 ## Author
 **Mahidhar Agraharapu**
 https://github.com/mahidhar2026
+
 
 
 
