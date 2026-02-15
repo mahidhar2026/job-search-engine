@@ -3,7 +3,7 @@
 A scalable full-stack job search application combining search-engine retrieval
 with backend rule-based ranking and fault-tolerant fallback mechanisms.
 
-# Project Overview
+## Project Overview
 
 This project simulates how real-world job platforms handle search at scale.
 
@@ -12,7 +12,7 @@ Instead of relying only on database queries, the system uses:
 - Backend services for business-driven relevance ranking
 - A fallback mechanism to ensure reliability
 
-# System Architecture
+## System Architecture
 
 Frontend (React)
         ↓
@@ -70,12 +70,12 @@ npm install
 npm run dev
 
 
-
+```md
 ##  Author
 
-**Mahidhar Agraharapu**  
-B.Tech – Artificial Intelligence & Machine Learning  
+**Mahidhar Agraharapu**    
 GitHub: https://github.com/mahidhar2026
+
 
 
 
